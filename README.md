@@ -3,7 +3,7 @@
 
 
 > [!IMPORTANT]
-> CoD4x Clientside Rainbow abstract shader! Requires CoD4 QOL!
+> Requires CoD4 QOL!
 >
 > Shader only works on all original cod4 weapons!
 > 
