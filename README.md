@@ -16,7 +16,7 @@
 ```
 .
 ├── ...
-├── 📁 Call of Duty Modern Warfare 3
+├── 📁 Call of Duty 4
 │   └── 📁 zone
 |      └── 📁 <your game language>
 |          └── 📜 rainbowshader.ff
