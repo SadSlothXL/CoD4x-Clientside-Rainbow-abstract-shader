@@ -10,6 +10,6 @@ CoD4x Clientside Rainbow abstract shader! Requires CoD4 QOL!
 ├── 📁 Call of Duty Modern Warfare 3
 │   └── 📁 zone
 |      └── 📁 <your game language>
-|          └── 📜 patch_specialops.ff
+|          └── 📜 rainbowshader.ff
 └── ...
 ```
