@@ -3,7 +3,7 @@
 
 
 > [!IMPORTANT]
-> Requires CoD4 QOL!
+> Requires [CoD4 QOL](https://github.com/Rex109/CoD4QOL)!
 >
 > Shader only works on all original cod4 weapons!
 > 
